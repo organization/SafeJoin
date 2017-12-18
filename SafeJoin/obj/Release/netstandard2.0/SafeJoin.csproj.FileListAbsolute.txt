@@ -1,0 +1,9 @@
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\bin\Release\netstandard2.0\SafeJoin.deps.json
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\bin\Release\netstandard2.0\SafeJoin.dll
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\bin\Release\netstandard2.0\SafeJoin.pdb
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.csproj.CoreCompileInputs.cache
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.AssemblyInfoInputs.cache
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.AssemblyInfo.cs
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.dll
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Release\netstandard2.0\SafeJoin.pdb
