@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SafeJoin": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\MY\\Desktop\\Develope\\minet-server\\MiNET.Service.exe"
+    }
+  }
+}
