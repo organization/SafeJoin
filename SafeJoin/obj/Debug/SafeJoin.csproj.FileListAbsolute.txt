@@ -1,0 +1,6 @@
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\bin\Debug\SafeJoin.dll
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\bin\Debug\SafeJoin.pdb
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Debug\SafeJoin.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Debug\SafeJoin.csproj.CoreCompileInputs.cache
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Debug\SafeJoin.dll
+C:\Users\MY\Desktop\Develope\MiNET-Plugins\SafeJoin\SafeJoin\obj\Debug\SafeJoin.pdb
